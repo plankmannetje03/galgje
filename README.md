@@ -12,6 +12,6 @@
 ![gallow](./images/2.png)
 
 ## Beurten
-req1: E
-resp: fout ah sukkel
-  
+req1: E  
+resp: fout ah sukkel  
+req2: signaal
